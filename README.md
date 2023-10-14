@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **Olubusolami-R/Olubusolami-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am an aspiring software engineer looking for internships or early career roles in software engineering.
+- My Current Stack: Python (Flask), HTML, CSS and JavaScript.
+- 🌱 I’m currently learning Go and the MEAN Stack.
+- ⭐️ I also have some experience training machine learning models. 
+- 🚀 I’m looking to learn more about open-source.
+- ⚡ Fun fact: I enjoy good music!
+
+📫 How to reach me: busolamidev@gmail.com
