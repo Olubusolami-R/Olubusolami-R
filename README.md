@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an aspiring software engineer looking for internships or early career roles in software engineering. I enjoy critical thinking and working on complex projects - I'm open to collaborations! Here's some more information about me: 
+I am an early-career software engineer looking for early career roles in software engineering. I enjoy critical thinking and working on complex projects - I'm open to collaborations! Here's some more information about me: 
 - My Current Stack: Python (Flask), Golang, HTML, CSS, JavaScript (Node) and React.
 - 🌱 I’m currently looking to grow as a software/machine learning engineer.
 - ⭐️ I also have some experience training machine learning models. 
