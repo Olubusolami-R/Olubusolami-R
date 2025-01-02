@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a software engineer who enjoys critical thinking and working on complex projects - I'm open to collaborations! Here's some more information about me: 
-- My Current Stack: Python (Flask), Golang, HTML, CSS (TailwindCSS as well) and JavaScript (with React).
-- 🌱 I’m currently looking to grow as a software/machine learning engineer.
-- ⭐️ I also have some experience training machine learning models. 
-- 🚀 Open to learning more about open-source.
+I am a software engineer who enjoys critical thinking and working on complex projects - I'm open to collaborations! Here's some more information about me:
+ 
+- 🌱 This year I'm focusing on building with Golang, but I've had various experiences building with Python, Java and JS in the past few years.
+- 🌱 I am also interested in NLP and languages in general, and I am currently exploring these interests.
+- 🌱 Open to learning more about open-source.
 
 📫 How to reach me: busolamidev@gmail.com
