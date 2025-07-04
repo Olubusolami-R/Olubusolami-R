@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 I am a software engineer who enjoys critical thinking and working on complex projects - I'm open to collaborations! Here's some more information about me:
  
-- 🌱 This year I'm focusing on building with Golang, but I've had various experiences building with Python, Java and JS in the past few years.
-- 🌱 I am also interested in Machine Learning, LLMs and NLP in general, and I am currently exploring these interests.
+- 🌱 This year, I'm focusing on building with Golang/Python and building strong foundations in AI/Research engineering, but I've had various experiences building with other languages in the past few years.
+- 🌱 I am very interested in Machine Learning, LLMs and NLP in general, and I am currently exploring these interests.
 - 🌱 Open to learning more about open-source.
 
 📫 How to reach me: busolamidev@gmail.com
