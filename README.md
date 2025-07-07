@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a software engineer who enjoys critical thinking and working on complex projects - I'm open to collaborations! Here's some more information about me:
+I am a research-oriented software engineer who enjoys critical thinking and working on complex projects - I'm open to collaborations! Here's some more information about me:
  
 - 🌱 This year, I'm focusing on building with Golang/Python and building strong foundations in AI/Research engineering, but I've had various experiences building with other languages in the past few years.
 - 🌱 I am very interested in Machine Learning, LLMs and NLP in general, and I am currently exploring these interests.
