@@ -14,10 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a software engineer who enjoys critical thinking and working on interesting projects - I'm open to collaborations! Here's some more information about me:
- 
-- 🌱 This year, I'm focusing on building with Python and building strong foundations in AI/Research engineering, but I've had some experience building with other languages in the past few years.
-- 🌱 I am very interested in Machine Learning, LLMs and NLP in general, and I am currently exploring these interests.
-- 🌱 Open to learning more about open-source.
+Great to see you here! A little about me:
 
-📫 How to reach me: busolamidev@gmail.com
+🌱 I’m currently working toward my MPhil in Machine Learning and Machine Intelligence at Cambridge.
+
+🌱 I’m mostly exploring NLP and generative models, trying to get better at running solid experiments and understanding how these systems behave in practice. I enjoy the “research-engineering” side of things: testing ideas, building small prototypes, and learning by doing.
+
+🌱 I work mainly in Python, Sklearn and PyTorch, and I’m slowly improving the engineering side of my workflow (Docker, reproducibility, cleaner code, all that good stuff).
+
+🌱 I’m really keen on contributing to open-source.
+
+📫 Feel free to reach out: busolamidev@gmail.com
